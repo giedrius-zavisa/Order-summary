@@ -1,0 +1,87 @@
+﻿body {
+    border-radius:25px;
+    text-align: center;
+    font-size: 16px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 2.5rem 5rem 0 rgba(0, 0, 0, 0.1);
+    width: 450px;
+    height: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    color:hsl(223, 47%, 23%);
+}
+
+.order-container {
+    width:70%;
+    margin:0  auto;
+    background-color: hsl(225, 100%, 98%);
+    border-radius:25px;
+    display:flex;
+}
+
+.introduction {
+    width: 60%;
+    margin-left: 95px;
+    color: hsl(224, 23%, 55%);
+}
+/* Order item styling*/
+
+.name {
+    margin-right: 80px;
+}
+
+/* Picture styles*/
+
+.header-pic {
+    width: 450px;
+    object-fit:cover;
+    overflow:hidden;
+}
+
+#icon-music {
+    width: 30px;
+    height:30px;
+    object-fit:fill;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+
+/* Button Styling*/
+
+button{
+    border:none;
+    box-shadow:none;
+}
+
+.btn-change {
+    background-color: hsl(225, 100%, 98%);
+    color: hsl(245, 75%, 52%);
+    text-decoration:underline;
+}
+
+.btn-group {
+    margin-top: 60px;
+}
+.btn-proceed, .btn-cancel {
+    border-bottom-style: solid;
+    border-radius: 25px;
+    width: 70%;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 11px;
+}
+
+.btn-proceed {
+    background-color: hsl(245, 75%, 52%);
+    border-color: hsl(245, 75%, 52%);
+    color:aliceblue;
+}
+
+.btn-cancel{
+    background-color:aliceblue;
+    border-color:aliceblue;
+}
