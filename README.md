@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-!(https://github.com/Sypnotick/Order-summary/blob/main/images/photo-final.png)
+![Screenshot](https://github.com/Sypnotick/Order-summary/blob/main/images/photo-final.png)
 
 ### Links
 
