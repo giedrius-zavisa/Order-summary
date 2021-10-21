@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://sypnotick.github.io/Order-summary/)
-- Live Site URL: [Live site URL(https://www.frontendmentor.io/solutions/order-summary-component-WouEqr5Vf)
+- Live Site URL: [Live site URL](https://www.frontendmentor.io/solutions/order-summary-component-WouEqr5Vf)
 
 ## My process
 
